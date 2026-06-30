@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">irohub</string>
+    <string name="about_title">Acerca de irohub</string>
+    <string name="about_body">
+        <![CDATA[
+        <h2>irohub</h2>
+        <p>Versión 1.0.0</p>
+        <p>Aplicación desarrollada por <b>@nautaii</b>.</p>
+        <p>Visita nuestro canal de Telegram: <a href="https://t.me/nautaii">@nautaii</a></p>
+        <hr/>
+        <p>Esta es una aplicación reconstruida con fines educativos. Todo el contenido es cargado directamente desde el navegador.</p>
+        ]]>
+    </string>
+    <string name="loading">Cargando…</string>
+    <string name="error_no_internet">Sin conexión a Internet</string>
+    <string name="error_unknown">Error desconocido</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_exit">Salir</string>
+    <string name="menu_share">Compartir app</string>
+    <string name="menu_reload">Recargar</string>
+    <string name="share_text">¡Probá irohub! Desarrollada por @nautaii</string>
+    <string name="developer_credit">Desarrollado por @nautaii</string>
+</resources>
